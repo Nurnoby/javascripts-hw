@@ -1,2 +1,3 @@
 # javascripts-hw
-this is javascritp
+this is javascritpt
+https://nurnoby.github.io/javascripts-hw/
